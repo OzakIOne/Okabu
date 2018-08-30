@@ -21,7 +21,7 @@ Depending of your browser.
 
 **Step 2 : Install the script**
 
-* Directly with **Stylus** [click here](https://github.com/OzakIOne/Okabu/blob/master/okabu.user.css)
+* Directly with **Stylus** [click here](https://raw.githubusercontent.com/OzakIOne/Okabu/master/okabu.user.css)
 
 **Step 3 : Show your appreciation**
 
