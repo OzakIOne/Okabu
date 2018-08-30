@@ -1,0 +1,69 @@
+/* ==UserStyle==
+@name           Okabu
+@namespace      github.com/openstyles/stylus
+@version        1.0.0
+@description    An user style for LDLC configurator called Okabu.
+@author         OzakI/OzakIOne
+==/UserStyle== */
+
+@-moz-document url-prefix("https://www.ldlc.com/fr-be/configurateur-pc/") {
+.config {
+    background-color: #202020;
+    background-image: none;
+}
+
+.component {
+    background-color: #272727;
+}
+
+.configurateur .elements .item {
+    background-color: #303030;
+}
+
+.configurateur .recap .relay-choice .relay-list ul, .configurateur .recap .sbloc, .relay-choice .relay-list .configurateur .recap ul {
+    background-color: #272727;
+}
+
+.configurateur .recap li {
+    color: #707070;
+}
+
+.title-2, .title-3, h2, h3 {
+    color: #b2b2b2;
+}
+
+.modal .modal-content {
+    background-color: #202020;
+}
+
+.dropdown {
+    background-color: #303030;
+    color: #b2b2b2;
+}
+
+.dropdown .list .drop {
+    background-color: #303030;
+}
+
+table.dataTable.display tbody tr.even>.sorting_1, table.dataTable.display tbody tr.odd, table.dataTable.display tbody tr.odd>.sorting_1, table.dataTable.order-column.stripe tbody tr.even>.sorting_1, table.dataTable.order-column.stripe tbody tr.odd>.sorting_1, table.dataTable.stripe tbody tr.odd {
+    background-color: #272727;
+    color: #9a9a9a;
+}
+
+.item-list .item-table-body tr, table.dataTable thead .sorting, table.dataTable thead .sorting_asc, table.dataTable thead .sorting_desc, table.dataTable.display tbody tr, table.dataTable.display tbody tr.even, table.dataTable.display tbody tr.odd {
+    background-color: #272727;
+    color: #9a9a9a;
+}
+
+.item-list .item-table-body tr, table.dataTable thead .sorting, table.dataTable thead .sorting_asc, table.dataTable thead .sorting_desc, table.dataTable.display tbody tr, table.dataTable.display tbody tr.even, table.dataTable.display tbody tr.odd {
+    color: #9a9a9a;
+}
+    
+.modal .modal-body.padding {
+    color: #9a9a9a;
+}
+    
+.configurateur .recap p.no-config {
+    color: #9a9a9a;
+}    
+}
