@@ -1,6 +1,6 @@
 # Okabu
 
-![Okabu](https://i.imgur.com/P5xyXuN.png)
+![Okabu](https://i.imgur.com/uZYM9kY.png)
 
 Preview of *Okabu*.
 
